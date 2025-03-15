@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   description:
     "Get personalized responses based on God's word from the Holy Bible. Learn how to respond to various behaviors with wisdom and love.",
 
-    metadataBase: new URL('https://holi-self-force-surprise.maheshmuttintidev.in'),
+    metadataBase: new URL('https://how-to-behave-with-others.maheshmuttintidev.in'),
   alternates: {
     canonical: '/',
   },
@@ -25,7 +25,6 @@ export const metadata: Metadata = {
   creator: 'Mahesh Muttinti',
   publisher: 'Mahesh Muttinti',
   formatDetection: {
-    telephone: false,
   },
   openGraph: {
     type: 'website',
